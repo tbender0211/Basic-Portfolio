@@ -5,3 +5,29 @@
  .inline-block2 {
     display: inline-block;
  }
+
+ #aboutme {
+     background-color: white;
+     height: 500px;
+     width: 75%;
+     align-content: center;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 50px;
+ }
+ 
+ body {
+     background-color: whitesmoke;
+ }
+
+ img {
+     float: left;
+     margin-right: 20px;
+     margin-left: 20px;
+ }
+
+ h1 {
+     background-color: white;
+     margin-top: 0px;
+     padding: 30px;
+ }
