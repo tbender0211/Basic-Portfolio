@@ -25,9 +25,18 @@
      margin-right: 20px;
      margin-left: 20px;
  }
+ 
+ #heading {
+    background-color: white;
+    padding: 0px;
+ }
 
  h1 {
-     background-color: white;
-     margin-top: 0px;
-     padding: 30px;
- }
+    background-color: teal;
+    height: 40px;
+    width: 200px;
+    padding: 20px;
+    margin: 0;
+    color: white;
+    margin-left: 190px;
+}
