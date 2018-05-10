@@ -21,6 +21,10 @@ a:hover {
     color: white;
 }
 
+a:active {
+    background-color: grey
+}
+
 html {
      background-image: url("../images/stardust.png")
  }
@@ -221,7 +225,7 @@ p {
 /*This section contains CSS for contact.html*/
 #contact {
     background-color: #ffffff;
-    height: 60%;
+    height: 980px;
     width: 960px;
     align-content: center;
     margin-left: auto;
